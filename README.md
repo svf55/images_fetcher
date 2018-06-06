@@ -9,5 +9,5 @@ pip install -r python_modules
 ```
 ### Run
 ```
-./python images_fetcher.py --chrome-driver-path PATH_YOUR_CHROMEDRIVER
+./images_fetcher.py --chrome-driver-path PATH_YOUR_CHROMEDRIVER
 ```
